@@ -24,6 +24,10 @@ Throughout the course, you'll work with crewAI, an open source library designed 
 
 - 📄 Tailoring resumes and preparing for job interviews.
 - 📝 Researching, writing, and editing technical articles.
+<p align="center">
+<img src="images/ai_agents_2.png" height="300"> 
+</p>
+
 - 📞 Automating customer support inquiries.
 - 📧 Conducting customer outreach campaigns.
 - 🎉 Planning and executing events.
