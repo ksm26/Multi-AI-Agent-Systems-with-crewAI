@@ -2,6 +2,14 @@
 
 💡 Welcome to the "Multi AI Agent Systems with crewAI" course! This course will equip you with the knowledge and skills to design effective AI agents and organize a team of AI agents to perform complex, multi-step tasks.
 
+<p align="center">
+<img src="images/ai_agents_1.png" height="300"> 
+</p>
+
+<p align="center">
+<img src="images/overview_3.png" height="300"> 
+</p>
+
 ## Course Summary
 In this course, you'll explore the key principles of designing and organizing AI agents to automate common business processes. Here's what you can expect to learn and experience:
 
