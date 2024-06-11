@@ -19,6 +19,11 @@ In this course, you'll explore the key principles of designing and organizing AI
 1. 🎭 **Role-playing**: Assign specialized roles to agents for effective task performance.
 2. 🧠 **Memory**: Provide agents with short-term, long-term, and shared memory for better context handling.
 3. 🛠️ **Tools**: Assign pre-built and custom tools to each agent, such as tools for web search.
+<p align="center">
+<img src="images/support_1.png" height="200"> 
+<img src="images/support_2.png" height="200"> 
+</p>
+
 4. 🎯 **Focus**: Break down tasks, goals, and tools and assign them to multiple AI agents for improved performance.
 5. 🚦 **Guardrails**: Effectively handle errors, hallucinations, and infinite loops to ensure reliable task execution.
 6. 🤝 **Cooperation**: Perform tasks in series, in parallel, and hierarchically to optimize workflow.
