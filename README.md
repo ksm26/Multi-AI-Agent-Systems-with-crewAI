@@ -12,6 +12,9 @@
 
 ## Course Summary
 In this course, you'll explore the key principles of designing and organizing AI agents to automate common business processes. Here's what you can expect to learn and experience:
+<p align="center">
+<img src="images/overview_1.png" height="300"> 
+</p>
 
 1. 🎭 **Role-playing**: Assign specialized roles to agents for effective task performance.
 2. 🧠 **Memory**: Provide agents with short-term, long-term, and shared memory for better context handling.
